@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/joinmenu"
+        android:title="회원가입"/>
+    <item
+        android:id="@+id/login"
+        android:title="로그인"/>
+
+    <item
+        android:id="@+id/logout"
+        android:title="로그아웃"/>
+
+    <item
+        android:id="@+id/modify"
+        android:title="회원정보수정"/>
+
+    <item
+        android:id="@+id/delete"
+        android:title="회원탈퇴"/>
+
+    <item
+        android:id="@+id/addrestaurant"
+        android:title="맛집등록"/>
+    <item
+        android:id="@+id/addHome"
+        android:title="Home"/>
+
+</menu>
